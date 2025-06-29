@@ -1,0 +1,66 @@
+{"level":"info","message":"Server running on port 3000","timestamp":"2025-06-29T17:31:55.509Z"}
+{"level":"info","message":"API response for IP: 141.95.158.40, Country: FR, Name: France, Status: 403","timestamp":"2025-06-29T17:32:01.428Z"}
+{"level":"info","message":"API response for IP: 185.245.61.163, Country: DE, Name: Germany, Status: 403","timestamp":"2025-06-29T17:32:01.433Z"}
+{"level":"info","message":"API response for IP: 94.16.112.150, Country: DE, Name: Germany, Status: 403","timestamp":"2025-06-29T17:32:01.437Z"}
+{"level":"info","message":"API response for IP: 3.81.23.221, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:32:01.441Z"}
+{"level":"info","message":"API response for IP: 193.123.35.231, Country: NL, Name: Netherlands, Status: 403","timestamp":"2025-06-29T17:32:01.445Z"}
+{"level":"info","message":"API response for IP: 78.47.196.185, Country: DE, Name: Germany, Status: 403","timestamp":"2025-06-29T17:32:01.446Z"}
+{"level":"info","message":"API response for IP: 185.14.97.177, Country: NO, Name: Norway, Status: 403","timestamp":"2025-06-29T17:32:01.450Z"}
+{"level":"info","message":"API response for IP: 45.13.38.5, Country: RO, Name: Romania, Status: 403","timestamp":"2025-06-29T17:32:01.451Z"}
+{"level":"info","message":"API response for IP: 107.174.230.229, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:32:01.458Z"}
+{"level":"info","message":"API response for IP: 65.21.149.102, Country: FI, Name: Finland, Status: 403","timestamp":"2025-06-29T17:32:01.465Z"}
+{"level":"info","message":"API response for IP: 107.174.34.7, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:32:01.466Z"}
+{"level":"info","message":"API response for IP: 193.32.87.249, Country: RO, Name: Romania, Status: 403","timestamp":"2025-06-29T17:32:01.473Z"}
+{"level":"info","message":"API response for IP: 166.88.142.236, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:32:01.688Z"}
+{"level":"info","message":"API response for IP: 152.70.107.101, Country: JP, Name: Japan, Status: 403","timestamp":"2025-06-29T17:32:01.787Z"}
+{"level":"info","message":"API response for IP: 85.113.70.168, Country: JP, Name: Japan, Status: 403","timestamp":"2025-06-29T17:32:01.997Z"}
+{"level":"info","message":"API response for IP: 100.24.44.179, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:04.675Z"}
+{"level":"info","message":"API response for IP: 130.61.145.204, Country: DE, Name: Germany, Status: 403","timestamp":"2025-06-29T17:35:04.677Z"}
+{"level":"info","message":"API response for IP: 37.114.51.15, Country: DE, Name: Germany, Status: 403","timestamp":"2025-06-29T17:35:04.680Z"}
+{"level":"info","message":"API response for IP: 193.123.62.76, Country: NL, Name: Netherlands, Status: 403","timestamp":"2025-06-29T17:35:04.681Z"}
+{"level":"info","message":"API response for IP: 145.239.66.30, Country: FR, Name: France, Status: 403","timestamp":"2025-06-29T17:35:04.692Z"}
+{"level":"info","message":"API response for IP: 144.76.14.144, Country: DE, Name: Germany, Status: 403","timestamp":"2025-06-29T17:35:04.698Z"}
+{"level":"info","message":"API response for IP: 78.47.68.1, Country: DE, Name: Germany, Status: 403","timestamp":"2025-06-29T17:35:04.706Z"}
+{"level":"info","message":"API response for IP: 109.94.170.34, Country: DE, Name: Germany, Status: 403","timestamp":"2025-06-29T17:35:04.727Z"}
+{"level":"info","message":"Cache hit for IP: ::ffff:185.14.97.177, Country: NO, Status: 403","timestamp":"2025-06-29T17:35:04.729Z"}
+{"level":"info","message":"API response for IP: 65.21.184.163, Country: FI, Name: Finland, Status: 403","timestamp":"2025-06-29T17:35:04.746Z"}
+{"level":"info","message":"API response for IP: 62.84.172.16, Country: NL, Name: Netherlands, Status: 403","timestamp":"2025-06-29T17:35:04.747Z"}
+{"level":"info","message":"API response for IP: 45.13.38.7, Country: RO, Name: Romania, Status: 403","timestamp":"2025-06-29T17:35:04.748Z"}
+{"level":"info","message":"API response for IP: 107.175.158.204, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:04.749Z"}
+{"level":"info","message":"API response for IP: 188.119.191.118, Country: RO, Name: Romania, Status: 403","timestamp":"2025-06-29T17:35:04.750Z"}
+{"level":"info","message":"API response for IP: 45.15.23.114, Country: RO, Name: Romania, Status: 403","timestamp":"2025-06-29T17:35:04.751Z"}
+{"level":"info","message":"API response for IP: 198.46.226.188, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:04.775Z"}
+{"level":"info","message":"API response for IP: 80.96.157.27, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:04.834Z"}
+{"level":"info","message":"API response for IP: 166.88.160.157, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:04.844Z"}
+{"level":"info","message":"API response for IP: 192.9.153.49, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:04.870Z"}
+{"level":"info","message":"API response for IP: 104.168.82.205, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:04.902Z"}
+{"level":"info","message":"API response for IP: 216.126.233.254, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:05.125Z"}
+{"level":"info","message":"API response for IP: 45.128.12.24, Country: SG, Name: Singapore, Status: 403","timestamp":"2025-06-29T17:35:05.227Z"}
+{"level":"info","message":"API response for IP: 158.101.91.226, Country: JP, Name: Japan, Status: 403","timestamp":"2025-06-29T17:35:05.235Z"}
+{"level":"info","message":"API response for IP: 109.107.140.138, Country: JP, Name: Japan, Status: 403","timestamp":"2025-06-29T17:35:05.253Z"}
+{"level":"info","message":"API response for IP: 93.177.65.183, Country: DE, Name: Germany, Status: 403","timestamp":"2025-06-29T17:35:05.672Z"}
+{"level":"info","message":"Cache hit for IP: ::ffff:37.114.51.15, Country: DE, Status: 403","timestamp":"2025-06-29T17:35:42.317Z"}
+{"level":"info","message":"API response for IP: 34.230.37.60, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:42.365Z"}
+{"level":"info","message":"API response for IP: 193.123.38.118, Country: NL, Name: Netherlands, Status: 403","timestamp":"2025-06-29T17:35:42.368Z"}
+{"level":"info","message":"API response for IP: 128.140.92.6, Country: DE, Name: Germany, Status: 403","timestamp":"2025-06-29T17:35:42.369Z"}
+{"level":"info","message":"API response for IP: 147.135.138.50, Country: FR, Name: France, Status: 403","timestamp":"2025-06-29T17:35:42.370Z"}
+{"level":"info","message":"API response for IP: 213.232.112.189, Country: DE, Name: Germany, Status: 403","timestamp":"2025-06-29T17:35:42.380Z"}
+{"level":"info","message":"API response for IP: 185.232.71.79, Country: DE, Name: Germany, Status: 403","timestamp":"2025-06-29T17:35:42.386Z"}
+{"level":"info","message":"API response for IP: 92.112.125.42, Country: HK, Name: Hong Kong, Status: 403","timestamp":"2025-06-29T17:35:42.388Z"}
+{"level":"info","message":"API response for IP: 141.144.240.175, Country: DE, Name: Germany, Status: 403","timestamp":"2025-06-29T17:35:42.391Z"}
+{"level":"info","message":"API response for IP: 116.203.19.49, Country: DE, Name: Germany, Status: 403","timestamp":"2025-06-29T17:35:42.398Z"}
+{"level":"info","message":"API response for IP: 185.125.168.254, Country: NO, Name: Norway, Status: 403","timestamp":"2025-06-29T17:35:42.406Z"}
+{"level":"info","message":"Cache hit for IP: ::ffff:193.32.87.249, Country: RO, Status: 403","timestamp":"2025-06-29T17:35:42.408Z"}
+{"level":"info","message":"API response for IP: 45.134.48.4, Country: RO, Name: Romania, Status: 403","timestamp":"2025-06-29T17:35:42.410Z"}
+{"level":"info","message":"API response for IP: 95.216.171.150, Country: FI, Name: Finland, Status: 403","timestamp":"2025-06-29T17:35:42.417Z"}
+{"level":"info","message":"API response for IP: 198.23.212.6, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:42.474Z"}
+{"level":"info","message":"API response for IP: 162.254.84.113, Country: RO, Name: Romania, Status: 403","timestamp":"2025-06-29T17:35:42.480Z"}
+{"level":"info","message":"API response for IP: 80.97.47.159, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:42.524Z"}
+{"level":"info","message":"API response for IP: 166.88.160.79, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:42.536Z"}
+{"level":"info","message":"API response for IP: 138.2.224.16, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:42.544Z"}
+{"level":"info","message":"Cache hit for IP: ::ffff:216.126.233.254, Country: US, Status: 200","timestamp":"2025-06-29T17:35:42.602Z"}
+{"level":"info","message":"API response for IP: 104.168.76.131, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:42.787Z"}
+{"level":"info","message":"API response for IP: 103.188.82.59, Country: VN, Name: Vietnam, Status: 403","timestamp":"2025-06-29T17:35:42.907Z"}
+{"level":"info","message":"API response for IP: 168.138.200.34, Country: JP, Name: Japan, Status: 403","timestamp":"2025-06-29T17:35:42.908Z"}
+{"level":"info","message":"API response for IP: 195.245.242.145, Country: JP, Name: Japan, Status: 403","timestamp":"2025-06-29T17:35:43.095Z"}
+{"level":"info","message":"API response for IP: 104.234.67.193, Country: US, Name: United States, Status: 200","timestamp":"2025-06-29T17:35:43.570Z"}
