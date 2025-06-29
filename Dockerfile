@@ -1,4 +1,4 @@
-# Use official Node.js 18 LTS Alpine image for a lightweight base
+# Use official Node.js 22 Alpine image for a lightweight base
 FROM node:22-alpine
 
 # Set working directory
