@@ -1,4 +1,4 @@
-# Requirements Document for Node.js IP Geolocation Access Control
+# Requirements Document for Node.js IP Geo Location Access Control
 
 ## 1.0 Project Overview
 This document outlines the requirements for a Node.js project that uses the ipgeolocation.io API to determine the country of origin for an IP address attempting to access the application and restricts access to only those IPs originating from the United States.
