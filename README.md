@@ -5,7 +5,7 @@ This document outlines the requirements for a Node.js project that uses the ipge
 
 ## 2.0 Functional Requirements
 
-### 2.1 IP Geolocation Lookup
+### 2.1 IP Geo Location Lookup
 - **FR1.1**: The application shall integrate with the ipgeolocation.io API to retrieve geolocation data for a given IP address.
 - **FR1.2**: The application shall extract the country code from the API response.
 - **FR1.3**: The application shall handle API rate limits and errors gracefully, providing appropriate error messages to the user.
