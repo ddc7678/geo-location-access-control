@@ -1,10 +1,10 @@
 # Test Results Document for Node.js IP Geo Location Access Control
 
 ## Unit Test
-This container was deplyed as an AWS ECS, Once the container was running with the IP Address: 44.202.125.194 an AWS Route 53 DNS entry was created for geoaccesscontrol.darrell.net pointing to the IP Address. As part of the AWS ECS a network access rulewas created to allow TCP port 3000. Then an iniital test was done from a web browser to the URL http://geoaccesscontrol.darrell.net/protected and the exprected resulets of message: "Welcome, US user!" were returned.
+This container was deployed as an AWS ECS. Once the container was running with the IP Address: 44.202.125.194, an AWS Route 53 DNS entry was created for geoaccesscontrol.darrell.net, pointing to the IP Address. As part of the AWS ECS, a network access rule was created to allow access to TCP port 3000. Then an initial test was performed from a web browser to the URL http://geoaccesscontrol.darrell.net/protected to make sure the expected results of message: "Welcome, US user!" was returned.
 
-Next was to setup a test from difrent countries. This was accomplished with a website tool: https://globalping.io/
-The tool was setup to do an http request on port 3000 from 25 global test points. Here are the resulets. 
+Next was to set up a test from different countries. This was accomplished with a website tool: https://globalping.io/
+The tool was set up to do this via an HTTP request on port 3000 from 25 global test points. Here are the results. 
 
 https://globalping.io?measurement=HRUXg9SFgV6cUS2X
  
